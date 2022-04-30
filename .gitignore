@@ -1,4 +1,7 @@
+.env
 aws
+env.sh
+
 # Local .terraform directories
 **/.terraform/*
 
